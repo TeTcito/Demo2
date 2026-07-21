@@ -1,0 +1,6 @@
+{
+  "name": "FibraNet - Internet de Fibra Óptica",
+  "description": "Landing page de alta conversión para FibraNet, proveedor de internet por fibra óptica de alta velocidad y estabilidad en Quevedo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
